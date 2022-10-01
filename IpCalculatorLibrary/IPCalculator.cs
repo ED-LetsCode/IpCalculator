@@ -3,7 +3,7 @@
 namespace IpCalculatorLibrary
 {
     /// <summary>
-    /// This class calculates the the following properties from a ip adress with subnet suffix<br/>
+    /// This class calculates the properties from a ip adress with subnet suffix<br/>
     /// Before instancing an object of this class call the static function CheckIfIpIsValid to check if the ip adress is valid<br/>
     /// </summary> 
     public class IPCalculator : ICalculateIP
