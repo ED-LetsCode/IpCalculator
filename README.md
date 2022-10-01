@@ -2,12 +2,12 @@
 A simple Ip calculator application.
 
 
-# Console
+## Console
 <img src="Images/IpCalculatorConsole.png" width="600"/>
 
 <br/>
 
-# Windows Forms
+## Windows Forms
 <img src="Images/IpCalculatorWinForm.png" width="300" height="500"/>
 
 # 
