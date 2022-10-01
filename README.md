@@ -1,5 +1,5 @@
 # Ip Calculator
-A simple Ip calculator application.
+A simple ip calculator application.
 
 
 ## Console
