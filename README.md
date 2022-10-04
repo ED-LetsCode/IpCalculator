@@ -8,7 +8,7 @@ A simple ip calculator application.
 <br/>
 
 ## Windows Forms
-<img src="Images/IpCalculatorWinForm.png" width="300" height="500"/>
+<img src="Images/IpCalculatorWinForm.png" width="330" height="500"/>
 
 # 
 - Git Clone Project
